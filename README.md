@@ -1,2 +1,0 @@
-# PikabuWave
-Created with CodeSandbox
